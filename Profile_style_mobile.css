@@ -22,6 +22,10 @@ body{
     text-align: center;
     height: inherit;
     vertical-align: center;
+    transform: none;
+}
+.menu_link {
+    width: 100%;
 }
 nav {
     height: 100%;
